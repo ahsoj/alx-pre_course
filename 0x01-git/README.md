@@ -1,3 +1,3 @@
 Directory read me
 
-read me updating
+Read me updating
